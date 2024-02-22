@@ -1,0 +1,28 @@
+[
+  [
+    {
+      "name": "Apple iPhone 11, 64GB",
+      "data": {
+        "price": 389.99,
+        "color": "Purple"
+      }
+    }
+  ],
+  [
+    {
+      "name": "Apple iPhone 11, 64GB",
+      "data": {
+        "price": 389.99,
+        "color": "Purple"
+      }
+    },
+    {
+      "name": "Apple iPad Air",
+      "data": {
+        "Generation": "4th",
+        "Price": "519.99",
+        "Capacity": "256 GB"
+      }
+    }
+  ]
+]
